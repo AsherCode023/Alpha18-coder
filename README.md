@@ -1,6 +1,6 @@
 # Hi there, I'm Alonso - aka [AsherCode][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
 
 ## I'm a 19 years old Self-Taught Full-Stack Developer UX/UI Enthusiast!!
