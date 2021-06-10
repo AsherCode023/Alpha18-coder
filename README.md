@@ -20,7 +20,7 @@
 
 <br />
 <br />
-📫 email: ***alonsosandovalch@gmail.com***
+📫 email: **alonsosandovalch@gmail.com**
 <br />
 
 ### Languages and Tools:
