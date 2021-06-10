@@ -11,8 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Alonso Sandoval | LinkedIn" width="22px" src="https://www.linkedin.com/in/alonso-sandoval-889590187/" />][linkedin]
-[<img align="left" alt="AsherCode | Instagram" width="22px" src="https://www.instagram.com/ashercode19/" />][instagram]
+[<img align="left" alt="Ashercode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AsherCode | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AsherCode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
