@@ -1,6 +1,7 @@
 ### Hi there, I'm Alonso - aka [AsherCode][website] 👋
 
-![me] (https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8a4c9e76060455.5c5e341a7b87d.jpg)
+![header-background](https://user-images.githubusercontent.com/70404649/121571151-44df1b80-c9e8-11eb-9b03-0712d212fad3.jpg)
+
 
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
 
