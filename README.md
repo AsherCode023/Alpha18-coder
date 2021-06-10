@@ -1,6 +1,4 @@
-### Hi there, I'm Alonso - aka [AsherCode][website] 👋
-
-![header-background](https://user-images.githubusercontent.com/70404649/121571151-44df1b80-c9e8-11eb-9b03-0712d212fad3.jpg)
+# Hi there, I'm Alonso - aka [AsherCode][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
