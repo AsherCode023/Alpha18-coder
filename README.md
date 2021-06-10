@@ -1,5 +1,7 @@
 ### Hi there, I'm Alonso - aka [AsherCode][website] 👋
 
+![me] (https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8a4c9e76060455.5c5e341a7b87d.jpg)
+
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
 
 ## I'm a 19 years old Self-Taught Full-Stack Developer UX/UI Enthusiast!!
