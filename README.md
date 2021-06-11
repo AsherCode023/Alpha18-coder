@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ashercode | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashercode | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ashercode | Behance" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/behance.svg" />][Behance]
+[<img align="left" alt="codeSTACKr.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashercode | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashercode | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ashercode | Behance" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/behance.svg" />][Behance]
 
 <br />
 <br />
