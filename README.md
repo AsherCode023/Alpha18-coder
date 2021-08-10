@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
 
-## I'm a 19 years old Self-Taught Full-Stack Developer UX/UI Enthusiast!!
+## I'm a 19 years old Self-Taught Frontend Developer UX/UI Enthusiast!!
 
 - 🌱 I’m currently learning GraphQL as well as mastering redux and typescript
 - 👯 I’m looking to collaborate with other content creators
