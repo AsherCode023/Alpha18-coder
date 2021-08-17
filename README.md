@@ -41,14 +41,9 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 ---
-
 <details>
-  :zap: GitHub Stats
+  <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="AsherCode GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha18-coder" />
-  
-  
-  <a href="https://app.daily.dev/AsherCode"><img src="https://api.daily.dev/devcards/4b42fd186e9b4ed0884297b340256c9a.png?r=6nc" width="400" alt="Alonso Sandoval's Dev Card"/>Daily Dev</a>
-
 </details>
 
 [website]: https://jolly-hugle-b11123.netlify.app/
