@@ -43,8 +43,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  :zap: GitHub Stats
   <img align="left" alt="AsherCode GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha18-coder" />
   
   
