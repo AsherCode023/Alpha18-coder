@@ -46,6 +46,10 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="AsherCode GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha18-coder" />
+  
+  
+  Daily Dev:
+  <a href="https://app.daily.dev/AsherCode"><img src="https://api.daily.dev/devcards/4b42fd186e9b4ed0884297b340256c9a.png?r=6nc" width="400" alt="Alonso Sandoval's Dev Card"/></a>
 
 </details>
 
