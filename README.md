@@ -4,12 +4,12 @@
 
 [![Website](https://img.shields.io/badge/ASHERCODE.COM-ONLINE-green)](https://jolly-hugle-b11123.netlify.app/)
 
-## I'm a 19 years old Self-Taught Frontend Developer UX/UI Enthusiast!!
+## I'm a 19 years old Self-Taught Frontend Developer!!
 
-- 🌱 I’m currently learning GraphQL as well as mastering redux and typescript
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / piano
+- 🌱 I’m currently learning ReactJs
+- 👯 I’m looking for a community to join
+- 🥅 2022 Goals: Contribute more to Open Source projects, start a personal brand and be a full-stack developer
+- ⚡ Fun fact: I like to learn about anything and try very hard things
 
 ### Connect with me:
 
@@ -50,3 +50,4 @@
 [instagram]: https://www.instagram.com/ashercode19/
 [linkedin]: https://www.linkedin.com/in/alonso-sandoval-889590187/
 [behance]: https://www.behance.net/alonsosandoval2/
+[Twitter]: https://www.twitter.com/CodeAsher
