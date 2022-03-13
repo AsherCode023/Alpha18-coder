@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-I'm a creative coder and self-taught React developer who is passionate about coding and learning new things every day. My current aims are to have a community to participate with, get a job, and code large projects to share, thus I'm now sharing my journey and constructing in public.
+I'm a creative coder and self-taught React developer who is passionate about coding and learning new things every day. My current aims are to have a community to participate with, get a job, and code large projects to share, thus I'm now sharing my journey and constructing in public on twitter and [hashnode].
 
 ✉ email: alonsosandovalch@gmail.com
 
@@ -39,6 +39,7 @@ I'm a creative coder and self-taught React developer who is passionate about cod
 [linkedin]: https://www.linkedin.com/in/alonso-sandoval-889590187/
 [behance]: https://www.behance.net/alonsosandoval2/
 [Twitter]: https://www.twitter.com/CodeAsher
+[hashnode]: https://alonso.hashnode.dev/
 
 <!-- BLOG-POST-LIST:START -->
 
