@@ -39,8 +39,7 @@ I'm a creative coder and self-taught React developer who is passionate about cod
 [linkedin]: https://www.linkedin.com/in/alonso-sandoval-889590187/
 [behance]: https://www.behance.net/alonsosandoval2/
 [Twitter]: https://www.twitter.com/CodeAsher
-[hashnode]: https://alonso.hashnode.dev/
-
+[hashnode]: https://ashercode.hashnode.dev/
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END --> 
