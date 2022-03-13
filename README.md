@@ -9,7 +9,6 @@
 - 🔥 Passionate about coding and learning something new everyday
 - 👯 Currently sharing my journey and building in public 
 - 🥅 2022 Goals: Have a community to engage with | Get a Job | Code big projects to share
-- ⚡ Fun fact: I
 
 ✉ email: alonsosandovalch@gmail.com
 
