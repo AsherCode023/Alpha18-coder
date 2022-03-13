@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-I’m a self-taught React developer and a creative coder who is passionate about coding and learning something new everyday. I'm currently sharing my journey and building in public and my goals are: Have a community to engage with, Get a Job and Code big projects to share.
+I'm a creative coder and self-taught React developer who is passionate about coding and learning new things every day. My current aims are to have a community to participate with, get a job, and code large projects to share, thus I'm now sharing my journey and constructing in public.
 
 ✉ email: alonsosandovalch@gmail.com
 
