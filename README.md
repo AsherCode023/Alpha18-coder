@@ -39,10 +39,10 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+## :zap: GitHub Stats
   <img align="left" alt="AsherCode GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha18-coder" />
-</details>
+
 
 [website]: https://jolly-hugle-b11123.netlify.app/
 [instagram]: https://www.instagram.com/ashercode19/
