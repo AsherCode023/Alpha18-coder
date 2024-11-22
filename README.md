@@ -6,8 +6,6 @@
 
 I'm a creative coder and self-taught React developer who is passionate about coding and learning new things every day. My current aims are to have a community to participate with, get a job, and code large projects to share, thus I'm now sharing my journey and constructing in public on twitter and [hashnode].
 
-✉ email: alonsosandovalch@gmail.com
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
